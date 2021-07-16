@@ -1,0 +1,59 @@
+{
+  "name": "Tenebris",
+  "dark": true,
+  "author": "cetonek",
+  "editorScheme": "/tenebris.xml",
+  "colors": {
+    "backgroundColor": "#1C1C1C",
+    "backgroundFocused": "#343434",
+    "backgroundSelectedItem": "#1c396f",
+    "borderColor": "#2b2b2b",
+    "scrollBarThumb": "#2f2f2f",
+    "dialogHeaderBackground": "#343434",
+    "dialogBorder": "#343434"
+  },
+  "ui": {
+    "*": {
+      "selectionBackground": "backgroundSelectedItem",
+      "background": "backgroundColor",
+      "borderColor": "borderColor",
+      "separatorColor": "borderColor"
+    },
+    "Borders": {
+      "color": "borderColor",
+      "ContrastBorderColor": "borderColor"
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "backgroundFocused"
+    },
+    "ToolWindow": {
+      "Header": {
+        "inactiveBackground": "backgroundColor"
+      }
+    },
+    "VersionControl": {
+      "Log.Commit": {
+        "currentBranchBackground": "backgroundColor"
+      }
+    },
+    "ScrollBar": {
+      "thumbColor": "scrollBarThumb",
+      "Transparent.thumbColor": "scrollBarThumb",
+      "Mac.thumbColor": "scrollBarThumb"
+    },
+    "SearchEverywhere": {
+      "Tab": {
+        "selectedBackground": "backgroundFocused"
+      }
+    },
+    "Popup": {
+      "Header.activeBackground": "dialogHeaderBackground",
+      "Header.inactiveBackground": "dialogHeaderBackground",
+      "borderColor": "dialogBorder"
+    },
+    "MemoryIndicator": {
+      "usedBackground": "backgroundFocused",
+      "allocatedBackground": "backgroundFocused"
+    }
+  }
+}
