@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cetonek.tenebris.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cetonek.tenebris.MyBundle
 
 class MyApplicationService {
 
