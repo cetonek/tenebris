@@ -8,14 +8,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.cetonek.tenebris.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.cetonek.tenebris.services.MyProjectService"/>
         <themeProvider id="45367267-a2b5-4453-a273-ed1a9cd24640" path="/tenebris.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.cetonek.tenebris.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 
 </idea-plugin>
