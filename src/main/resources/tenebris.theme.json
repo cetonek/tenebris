@@ -4,20 +4,27 @@
   "author": "cetonek",
   "editorScheme": "/tenebris.xml",
   "colors": {
+    "text": "#BAB9B9",
     "backgroundColor": "#1C1C1C",
     "backgroundFocused": "#343434",
     "backgroundSelectedItem": "#1c396f",
     "borderColor": "#2b2b2b",
     "scrollBarThumb": "#2f2f2f",
     "dialogHeaderBackground": "#343434",
-    "dialogBorder": "#343434"
+    "dialogBorder": "#343434",
+    "buttonBorder": "#343434"
   },
   "ui": {
     "*": {
-      "selectionBackground": "backgroundSelectedItem",
       "background": "backgroundColor",
+      "selectionBackground": "backgroundSelectedItem",
+      "foreground": "text",
       "borderColor": "borderColor",
       "separatorColor": "borderColor"
+    },
+    "Button": {
+      "startBorderColor": "buttonBorder",
+      "endBorderColor": "buttonBorder"
     },
     "Borders": {
       "color": "borderColor",
@@ -54,6 +61,12 @@
     "MemoryIndicator": {
       "usedBackground": "backgroundFocused",
       "allocatedBackground": "backgroundFocused"
+    },
+    "ToolTip": {
+      "background": "backgroundFocused"
+    },
+    "Table": {
+      "gridColor": "borderColor"
     }
   }
 }
