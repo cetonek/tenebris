@@ -9,7 +9,7 @@
     "backgroundFocused": "#343434",
     "backgroundSelectedItem": "#1c396f",
     "borderColor": "#2b2b2b",
-    "scrollBarThumb": "#2f2f2f",
+    "scrollBarThumb": "#313131",
     "dialogHeaderBackground": "#343434",
     "dialogBorder": "#343434",
     "buttonBorder": "#343434"
@@ -54,9 +54,9 @@
       }
     },
     "Popup": {
+      "inactiveBorderColor": "dialogBorder",
       "Header.activeBackground": "dialogHeaderBackground",
-      "Header.inactiveBackground": "dialogHeaderBackground",
-      "borderColor": "dialogBorder"
+      "Header.inactiveBackground": "dialogHeaderBackground"
     },
     "MemoryIndicator": {
       "usedBackground": "backgroundFocused",
@@ -67,6 +67,9 @@
     },
     "Table": {
       "gridColor": "borderColor"
+    },
+    "CompletionPopup": {
+      "selectionInactiveBackground" : "backgroundSelectedItem"
     },
     "FileColor": {
       "Yellow": "#30311e",
