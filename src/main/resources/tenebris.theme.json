@@ -67,6 +67,14 @@
     },
     "Table": {
       "gridColor": "borderColor"
+    },
+    "FileColor": {
+      "Yellow": "#30311e",
+      "Green": "#1e311e",
+      "Blue": "#1e2531",
+      "Violet": "#2e1e31",
+      "Orange": "#31291e",
+      "Rose": "#311e2a"
     }
   }
 }
