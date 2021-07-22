@@ -1,8 +1,8 @@
 # Tenebris
 
 ![Build](https://github.com/cetonek/tenebris/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/17278)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/17278)
+[![Version](https://img.shields.io/jetbrains/plugin/v/17278-tenebris.svg)](https://plugins.jetbrains.com/plugin/17278-tenebris)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/17278-tenebris.svg)](https://plugins.jetbrains.com/plugin/17278-tenebris)
 
 <!-- Plugin description -->
 A dark theme inspired by Darcula and Visual Studio.
