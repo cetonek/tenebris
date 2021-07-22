@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# tenebris Changelog
+# Tenebris changelog
 
 ## [Unreleased]
 ### Added
