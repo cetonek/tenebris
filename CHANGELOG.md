@@ -3,6 +3,7 @@
 # Tenebris changelog
 
 ## [Unreleased]
+## [0.0.3]
 ### Changed
 - Hover background color for tabs and editor tool buttons
 - Hover and selected color for editor breadcrumbs
