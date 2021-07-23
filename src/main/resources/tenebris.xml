@@ -11,6 +11,7 @@
     <option name="CARET_COLOR" value="3399ff" />
     <option name="CARET_ROW_COLOR" value="80808" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1c1c1c" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="959595" />
     <option name="DOCUMENTATION_COLOR" value="1c1c1c" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -41,7 +42,6 @@
     <option name="SEPARATOR_BELOW_COLOR" value="2b2b2b" />
     <option name="TEARLINE_COLOR" value="2b2b2b" />
     <option name="WHITESPACES" value="505050" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="959595" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -56,24 +56,24 @@
     <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="44474a" />
+        <option name="FOREGROUND" value="d5d5d5" />
+        <option name="BACKGROUND" value="343434" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="FOREGROUND" value="d5d5d5" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="3a3c3e" />
+        <option name="FOREGROUND" value="d5d5d5" />
+        <option name="BACKGROUND" value="343434" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="FOREGROUND" value="d5d5d5" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
