@@ -69,7 +69,7 @@
       "gridColor": "borderColor"
     },
     "CompletionPopup": {
-      "selectionInactiveBackground" : "backgroundSelectedItem"
+      "selectionInactiveBackground": "backgroundSelectedItem"
     },
     "FileColor": {
       "Yellow": "#30311e",
