@@ -20,7 +20,8 @@
       "selectionBackground": "backgroundSelectedItem",
       "foreground": "text",
       "borderColor": "borderColor",
-      "separatorColor": "borderColor"
+      "separatorColor": "borderColor",
+      "selectedBackground": "backgroundFocused"
     },
     "Button": {
       "startBorderColor": "buttonBorder",
@@ -30,10 +31,16 @@
       "color": "borderColor",
       "ContrastBorderColor": "borderColor"
     },
+    "DefaultTabs": {
+      "hoverBackground": "backgroundFocused"
+    },
     "EditorTabs": {
       "underlinedTabBackground": "backgroundFocused"
     },
     "ToolWindow": {
+      "Button": {
+        "hoverBackground": "backgroundFocused"
+      },
       "Header": {
         "inactiveBackground": "backgroundColor"
       }
@@ -47,11 +54,6 @@
       "thumbColor": "scrollBarThumb",
       "Transparent.thumbColor": "scrollBarThumb",
       "Mac.thumbColor": "scrollBarThumb"
-    },
-    "SearchEverywhere": {
-      "Tab": {
-        "selectedBackground": "backgroundFocused"
-      }
     },
     "Popup": {
       "inactiveBorderColor": "dialogBorder",
