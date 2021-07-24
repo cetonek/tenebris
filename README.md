@@ -8,6 +8,8 @@
 A dark theme inspired by Darcula and Visual Studio.
 <!-- Plugin description end -->
 
+![screenshot](https://raw.githubusercontent.com/cetonek/tenebris/main/screenshot/default.png)
+
 ## Installation
 
 - Using IDE built-in plugin system:
