@@ -3,6 +3,9 @@
 # Tenebris changelog
 
 ## [Unreleased]
+### Added
+- Screenshot to readme
+
 ## [0.0.3]
 ### Changed
 - Hover background color for tabs and editor tool buttons
