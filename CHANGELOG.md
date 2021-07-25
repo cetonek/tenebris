@@ -5,6 +5,8 @@
 ## [Unreleased]
 ### Added
 - Screenshot to readme
+### Removed
+- Unused properties resource file
 
 ## [0.0.3]
 ### Changed
