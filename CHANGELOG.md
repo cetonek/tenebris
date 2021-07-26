@@ -3,6 +3,7 @@
 # Tenebris changelog
 
 ## [Unreleased]
+## [0.0.4]
 ### Added
 - Screenshot to readme
 ### Removed
