@@ -73,6 +73,12 @@
     "CompletionPopup": {
       "selectionInactiveBackground": "backgroundSelectedItem"
     },
+    "ProgressBar": {
+      "trackColor": "backgroundFocused",
+      "progressColor": "#4c4c4c",
+      "indeterminateStartColor": "backgroundFocused",
+      "indeterminateEndColor": "#4c4c4c"
+    },
     "FileColor": {
       "Yellow": "#30311e",
       "Green": "#1e311e",

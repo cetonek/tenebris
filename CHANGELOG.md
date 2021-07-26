@@ -7,6 +7,8 @@
 - Screenshot to readme
 ### Removed
 - Unused properties resource file
+### Changed
+- Dim progress bar track/progress color to match the rest of the theme
 
 ## [0.0.3]
 ### Changed
