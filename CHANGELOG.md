@@ -3,6 +3,9 @@
 # Tenebris changelog
 
 ## [Unreleased]
+### Changed
+- Default language constant to be orange like java constants
+- Markdown titles to be slightly lighter than keywords
 
 ## [0.0.4]
 ### Added
