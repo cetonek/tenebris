@@ -17,6 +17,7 @@
     <option name="INDENT_GUIDE" value="3399ff" />
     <option name="LINE_NUMBERS_COLOR" value="58a4ff" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="58a4ff" />
+    <option name="LOOKUP_COLOR" value="1c1c1c" />
     <option name="METHOD_SEPARATORS_COLOR" value="1d1d1d" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RIGHT_MARGIN_COLOR" value="2b2b2b" />
@@ -25,13 +26,12 @@
     <option name="SELECTION_BACKGROUND" value="3065be" />
     <option name="SELECTION_FOREGROUND" value="dcdcdc" />
     <option name="SEPARATOR_BELOW_COLOR" value="2b2b2b" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="313131" />
+    <option name="ScrollBar.Mac.thumbColor" value="313131" />
+    <option name="ScrollBar.Transparent.thumbColor" value="313131" />
+    <option name="ScrollBar.thumbColor" value="313131" />
     <option name="TEARLINE_COLOR" value="2b2b2b" />
     <option name="WHITESPACES" value="505050" />
-    <option name="LOOKUP_COLOR" value="1c1c1c" />
-    <option name="ScrollBar.thumbColor" value="313131"/>
-    <option name="ScrollBar.Transparent.thumbColor" value="313131"/>
-    <option name="ScrollBar.Mac.thumbColor" value="313131"/>
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="313131"/>
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -336,6 +336,7 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="b5cea8" />
@@ -679,7 +680,18 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_COLOR" value="909090" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="EFFECT_COLOR" value="909090" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.25" />
   <option name="LINE_SPACING" value="1.0" />
