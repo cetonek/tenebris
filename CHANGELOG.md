@@ -3,6 +3,9 @@
 # Tenebris changelog
 
 ## [Unreleased]
+### Fixed
+- Light code completion pop up
+
 ## [0.0.5]
 ### Added
 - Support for idea 2021.2
