@@ -3,6 +3,8 @@
 # Tenebris changelog
 
 ## [Unreleased]
+### Added
+- Support for idea 2021.2
 ### Changed
 - Default language constant to be orange like java constants
 - Markdown titles to be slightly lighter than keywords
