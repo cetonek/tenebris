@@ -3,6 +3,7 @@
 # Tenebris changelog
 
 ## [Unreleased]
+## [0.0.5]
 ### Added
 - Support for idea 2021.2
 ### Changed
