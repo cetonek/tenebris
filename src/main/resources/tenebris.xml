@@ -32,6 +32,7 @@
     <option name="ScrollBar.thumbColor" value="313131" />
     <option name="TEARLINE_COLOR" value="2b2b2b" />
     <option name="WHITESPACES" value="505050" />
+    <option name="TOOLTIP" value="1c1c1c" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
