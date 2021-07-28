@@ -5,6 +5,8 @@
 ## [Unreleased]
 ### Fixed
 - Light code completion pop up
+### Changed
+- Color scheme now extends from Darcula instead of Default
 
 ## [0.0.5]
 ### Added
