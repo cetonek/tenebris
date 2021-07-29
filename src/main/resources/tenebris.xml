@@ -8,6 +8,7 @@
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
+    <option name="ANNOTATIONS_COLOR" value="d5d5d5" />
     <option name="CARET_COLOR" value="3399ff" />
     <option name="CARET_ROW_COLOR" value="80808" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1c1c1c" />
@@ -23,7 +24,6 @@
     <option name="RIGHT_MARGIN_COLOR" value="2b2b2b" />
     <option name="SELECTED_INDENT_GUIDE" value="dcdcdc" />
     <option name="SELECTED_TEARLINE_COLOR" value="3399ff" />
-    <option name="SELECTION_BACKGROUND" value="3065be" />
     <option name="SELECTION_FOREGROUND" value="dcdcdc" />
     <option name="SEPARATOR_BELOW_COLOR" value="2b2b2b" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="313131" />
@@ -38,7 +38,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="212121" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="1c1c1c" />
     <option name="WHITESPACES" value="505050" />
-    <option name="ANNOTATIONS_COLOR" value="d5d5d5" />
+    <option name="SELECTION_BACKGROUND" value="113d6f" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
