@@ -24,8 +24,17 @@
       "selectedBackground": "backgroundFocused"
     },
     "Button": {
+      "startBackground": "backgroundFocused",
+      "endBackground": "backgroundFocused",
       "startBorderColor": "buttonBorder",
-      "endBorderColor": "buttonBorder"
+      "endBorderColor": "buttonBorder",
+      "disabledBorderColor" : "buttonBorder",
+      "default": {
+        "startBackground": "#4c4c4c",
+        "endBackground": "#4c4c4c",
+        "startBorderColor": "buttonBorder",
+        "endBorderColor": "buttonBorder"
+      }
     },
     "ActionButton": {
       "hoverBackground": "backgroundFocused",
