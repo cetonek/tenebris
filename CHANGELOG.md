@@ -6,6 +6,7 @@
 ### Changed
 - Vcs git blame colors to be 5 shades of gray, starting with main dark color
 - Toggle button colors to match rest of the theme
+- Git log item hover color to match rest of the theme
 ### Fixed
 - Too bright selection background
 

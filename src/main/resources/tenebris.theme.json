@@ -53,7 +53,8 @@
     },
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "backgroundColor"
+        "currentBranchBackground": "backgroundColor",
+        "hoveredBackground": "backgroundFocused"
       }
     },
     "ScrollBar": {
