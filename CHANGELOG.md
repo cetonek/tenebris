@@ -3,6 +3,9 @@
 # Tenebris changelog
 
 ## [Unreleased]
+### Changed
+- Vcs git blame colors to be 5 shades of gray, starting with main dark color
+
 ## [0.0.6]
 ### Fixed
 - Light code completion pop up
