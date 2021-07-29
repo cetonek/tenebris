@@ -5,6 +5,9 @@
 ## [Unreleased]
 ### Fixed
 - Light code completion pop up
+### Changed
+- Color scheme now extends from Darcula instead of Default
+- Tooltip background color to match rest of the theme
 
 ## [0.0.5]
 ### Added
