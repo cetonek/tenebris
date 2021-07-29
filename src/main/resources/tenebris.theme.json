@@ -27,6 +27,12 @@
       "startBorderColor": "buttonBorder",
       "endBorderColor": "buttonBorder"
     },
+    "ActionButton": {
+      "hoverBackground": "backgroundFocused",
+      "hoverBorderColor": "backgroundFocused",
+      "pressedBackground": "#4c4c4c",
+      "pressedBorderColor": "#4c4c4c"
+    },
     "Borders": {
       "color": "borderColor",
       "ContrastBorderColor": "borderColor"
