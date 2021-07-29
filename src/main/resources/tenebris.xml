@@ -31,8 +31,8 @@
     <option name="ScrollBar.Transparent.thumbColor" value="313131" />
     <option name="ScrollBar.thumbColor" value="313131" />
     <option name="TEARLINE_COLOR" value="2b2b2b" />
-    <option name="WHITESPACES" value="505050" />
     <option name="TOOLTIP" value="1c1c1c" />
+    <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -473,6 +473,11 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value />
     </option>
@@ -565,6 +570,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
@@ -694,9 +700,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_MUTABLE_VARIABLE">
+    <option name="PY.ANNOTATION">
       <value>
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="58d2c7" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
