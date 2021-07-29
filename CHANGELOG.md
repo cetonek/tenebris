@@ -3,6 +3,7 @@
 # Tenebris changelog
 
 ## [Unreleased]
+## [0.0.6]
 ### Fixed
 - Light code completion pop up
 ### Changed
