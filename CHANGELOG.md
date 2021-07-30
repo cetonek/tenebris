@@ -3,6 +3,8 @@
 # Tenebris changelog
 
 ## [Unreleased]
+
+## [0.0.7]
 ### Changed
 - Vcs git blame colors to be 5 shades of gray, starting with main dark color
 - Toggle button colors to match rest of the theme
