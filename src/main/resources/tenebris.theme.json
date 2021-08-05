@@ -21,7 +21,8 @@
       "foreground": "text",
       "borderColor": "borderColor",
       "separatorColor": "borderColor",
-      "selectedBackground": "backgroundFocused"
+      "selectedBackground": "backgroundFocused",
+      "focusedBorderColor": "backgroundSelectedItem"
     },
     "Button": {
       "startBackground": "backgroundFocused",

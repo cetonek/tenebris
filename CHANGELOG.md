@@ -3,6 +3,8 @@
 # Tenebris changelog
 
 ## [Unreleased]
+### Changed
+- Component focused border color dimmed a bit to match rest of the theme
 
 ## [0.0.7]
 ### Changed
