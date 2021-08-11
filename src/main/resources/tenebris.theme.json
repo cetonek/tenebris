@@ -4,97 +4,95 @@
   "author": "cetonek",
   "editorScheme": "/tenebris.xml",
   "colors": {
-    "text": "#d5d5d5",
-    "backgroundColor": "#1C1C1C",
-    "backgroundFocused": "#343434",
-    "backgroundSelectedItem": "#1c396f",
-    "borderColor": "#2b2b2b",
-    "scrollBarThumb": "#313131",
-    "dialogHeaderBackground": "#343434",
-    "dialogBorder": "#343434",
-    "buttonBorder": "#343434"
+    "black28": "#1C1C1C",
+    "black43": "#2b2b2b",
+    "black49": "#313131",
+    "black52": "#343434",
+    "black76": "#4c4c4c",
+    "white213": "#d5d5d5",
+    "backgroundSelectedItem": "#1c396f"
   },
   "ui": {
     "*": {
-      "background": "backgroundColor",
+      "background": "black28",
       "selectionBackground": "backgroundSelectedItem",
-      "foreground": "text",
-      "borderColor": "borderColor",
-      "separatorColor": "borderColor",
-      "selectedBackground": "backgroundFocused",
+      "foreground": "white213",
+      "borderColor": "black43",
+      "separatorColor": "black43",
+      "selectedBackground": "black52",
       "focusedBorderColor": "backgroundSelectedItem"
     },
     "Button": {
-      "startBackground": "backgroundFocused",
-      "endBackground": "backgroundFocused",
-      "startBorderColor": "buttonBorder",
-      "endBorderColor": "buttonBorder",
-      "disabledBorderColor" : "buttonBorder",
+      "startBackground": "black52",
+      "endBackground": "black52",
+      "startBorderColor": "black52",
+      "endBorderColor": "black52",
+      "disabledBorderColor": "black52",
       "default": {
-        "startBackground": "#4c4c4c",
-        "endBackground": "#4c4c4c",
-        "startBorderColor": "buttonBorder",
-        "endBorderColor": "buttonBorder"
+        "startBackground": "black76",
+        "endBackground": "black76",
+        "startBorderColor": "black52",
+        "endBorderColor": "black52"
       }
     },
     "ActionButton": {
-      "hoverBackground": "backgroundFocused",
-      "hoverBorderColor": "backgroundFocused",
-      "pressedBackground": "#4c4c4c",
-      "pressedBorderColor": "#4c4c4c"
+      "hoverBackground": "black52",
+      "hoverBorderColor": "black52",
+      "pressedBackground": "black76",
+      "pressedBorderColor": "black76"
     },
     "Borders": {
-      "color": "borderColor",
-      "ContrastBorderColor": "borderColor"
+      "color": "black43",
+      "ContrastBorderColor": "black43"
     },
     "DefaultTabs": {
-      "hoverBackground": "backgroundFocused"
+      "hoverBackground": "black52"
     },
     "EditorTabs": {
-      "underlinedTabBackground": "backgroundFocused"
+      "underlinedTabBackground": "black52"
     },
     "ToolWindow": {
       "Button": {
-        "hoverBackground": "backgroundFocused"
+        "hoverBackground": "black52"
       },
       "Header": {
-        "inactiveBackground": "backgroundColor"
+        "inactiveBackground": "black28"
       }
     },
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "backgroundColor",
-        "hoveredBackground": "backgroundFocused"
+        "currentBranchBackground": "black28",
+        "hoveredBackground": "black52"
       }
     },
     "ScrollBar": {
-      "thumbColor": "scrollBarThumb",
-      "Transparent.thumbColor": "scrollBarThumb",
-      "Mac.thumbColor": "scrollBarThumb"
+      "thumbColor": "black49",
+      "Transparent.thumbColor": "black49",
+      "Mac.thumbColor": "black49"
     },
     "Popup": {
-      "inactiveBorderColor": "dialogBorder",
-      "Header.activeBackground": "dialogHeaderBackground",
-      "Header.inactiveBackground": "dialogHeaderBackground"
+      "inactiveBorderColor": "black52",
+      "Header.activeBackground": "black52",
+      "Header.inactiveBackground": "black52"
     },
     "MemoryIndicator": {
-      "usedBackground": "backgroundFocused",
-      "allocatedBackground": "backgroundFocused"
+      "usedBackground": "black52",
+      "allocatedBackground": "black52"
     },
     "ToolTip": {
-      "background": "backgroundFocused"
+      "background": "black52"
     },
     "Table": {
-      "gridColor": "borderColor"
+      "gridColor": "black43"
     },
     "CompletionPopup": {
       "selectionInactiveBackground": "backgroundSelectedItem"
     },
     "ProgressBar": {
-      "trackColor": "backgroundFocused",
-      "progressColor": "#4c4c4c",
-      "indeterminateStartColor": "backgroundFocused",
-      "indeterminateEndColor": "#4c4c4c"
+      "trackColor": "black52",
+      "progressColor": "black76",
+      "indeterminateStartColor": "black52",
+      "indeterminateEndColor": "black76"
     },
     "FileColor": {
       "Yellow": "#30311e",
