@@ -3,6 +3,9 @@
 # Tenebris changelog
 
 ## [Unreleased]
+### Added
+- Support for idea 2021.3
+
 ## [0.0.8]
 ### Changed
 - Component focused border color dimmed a bit to match rest of the theme
