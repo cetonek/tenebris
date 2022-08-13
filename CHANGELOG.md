@@ -3,6 +3,9 @@
 # Tenebris changelog
 
 ## [Unreleased]
+### Added
+- Support for idea 2022.2
+
 ## [0.0.10]
 ### Added
 - Support for idea 2022.1
